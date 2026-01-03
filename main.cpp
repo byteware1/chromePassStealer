@@ -14,7 +14,7 @@ int main() {
     std::cout << "    /_/   \\_\\ .__/| .__/|_|\\___|\n";
     std::cout << "            |_|   |_|           \n";
     SetConsoleTextAttribute(hConsole, FOREGROUND_BLUE | FOREGROUND_INTENSITY);
-    std::cout << "\n     SKYPORTAL DISCORD MALWARE   \n";
+    std::cout << "\n     BYTEWARE DISCORD MALWARE   \n";
     SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 
     std::string cmd;
@@ -37,3 +37,4 @@ int main() {
     }
     return 0;
 }
+
