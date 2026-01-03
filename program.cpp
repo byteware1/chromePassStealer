@@ -322,4 +322,7 @@ void runSavedPasswords() {
     std::cout << "Done. Check browser_passwords.csv\n";
     std::cout << "Press Enter to exit...";
     std::cin.get();
+
 }
+
+// Made by Bartek from skyportals byteware
