@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Multi-Browser Password Extractor v2.1
+# Multi-Browser Password Extractor v2.1
 
 **Educational & Research Project for Windows (Chromium-based browsers)**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Overview
+## overview
 
 **Multi-Browser Password Extractor v2.1** is a Windows-based C++ research project that demonstrates how Chromium-based browsers store and protect saved credentials.
 
@@ -28,7 +28,7 @@ Use ONLY on systems you own or have explicit permission to test.**
 
 ---
 
-## 🌐 Supported Browsers
+## Supported Browsers
 
 | Browser | Status |
 |-------|--------|
@@ -45,19 +45,19 @@ Supports:
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔑 DPAPI master key decryption
-- 🔐 AES-GCM password decryption (`v10` / `v11`)
-- 👤 Multi-profile support
-- 🗃️ SQLite login database parsing
-- 📄 CSV export (`browser_passwords.csv`)
-- 🧹 Automatic cleanup of temp files
-- ⚡ Fast & fully local execution
+- DPAPI master key decryption
+- AES-GCM password decryption (`v10` / `v11`)
+- Multi-profile support
+- QLite login database parsing
+- CSV export (`browser_passwords.csv`)
+- Automatic cleanup of temp files
+- Fast & fully local execution
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Language:** C++ (C++17)
 - **Crypto:** Crypto++
@@ -67,7 +67,7 @@ Supports:
 
 ---
 
-## 📂 Output Example
+##  Output Example
 
 ```csv
 ID,Browser,URL,Username,Password

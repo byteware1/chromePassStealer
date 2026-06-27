@@ -324,5 +324,3 @@ void runSavedPasswords() {
     std::cin.get();
 
 }
-
-// Made by Bartek from skyportals byteware
